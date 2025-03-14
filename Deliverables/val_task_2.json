@@ -1,6 +1,6 @@
 [
     {
-        "tokens": [
+        "tokens":[
             "I",
             "was",
             "here",
@@ -21,13 +21,416 @@
             "restaurant",
             "ever"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "customer service"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "place"
+        ],
+        "index":21
+    },
+    {
+        "tokens":[
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "oyster"
+        ],
+        "index":5
+    },
+    {
+        "tokens":[
+            "Went",
+            "on",
+            "a",
+            "3",
+            "day",
+            "oyster",
+            "binge",
+            "with",
+            "Fish",
+            "bringing",
+            "up",
+            "the",
+            "closing",
+            "and",
+            "I",
+            "am",
+            "so",
+            "glad",
+            "this",
+            "was",
+            "the",
+            "place",
+            "it",
+            "O",
+            "trip",
+            "ended",
+            "because",
+            "it",
+            "was",
+            "so",
+            "great"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "Fish"
+        ],
+        "index":8
+    },
+    {
+        "tokens":[
+            "Took",
+            "my",
+            "mom",
+            "for",
+            "Mother",
+            "'s",
+            "Day",
+            "and",
+            "the",
+            "maitre",
+            "d",
+            "was",
+            "pretty",
+            "rude"
+        ],
+        "polarity":"negative",
+        "aspect_terms":[
+            "maitre d'"
+        ],
+        "index":-1
+    },
+    {
+        "tokens":[
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "sushi bar"
+        ],
+        "index":18
+    },
+    {
+        "tokens":[
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "chef"
+        ],
+        "index":20
+    },
+    {
+        "tokens":[
+            "My",
+            "husband",
+            "and",
+            "I",
+            "have",
+            "been",
+            "there",
+            "a",
+            "couple",
+            "of",
+            "times",
+            "and",
+            "each",
+            "time",
+            "we",
+            "sat",
+            "at",
+            "the",
+            "sushi",
+            "bar",
+            "chef",
+            "Yoshi",
+            "and",
+            "ordered",
+            "everything",
+            "ala",
+            "carte"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "ala carte"
+        ],
+        "index":25
+    },
+    {
+        "tokens":[
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "vibe"
+        ],
+        "index":1
+    },
+    {
+        "tokens":[
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "service"
+        ],
+        "index":7
+    },
+    {
+        "tokens":[
+            "The",
+            "vibe",
+            "is",
+            "very",
+            "relaxed",
+            "and",
+            "cozy",
+            "service",
+            "was",
+            "great",
+            "and",
+            "the",
+            "food",
+            "was",
+            "excellent"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "food"
+        ],
+        "index":12
+    },
+    {
+        "tokens":[
+            "If",
+            "the",
+            "weather",
+            "is",
+            "nice",
+            "try",
+            "to",
+            "snag",
+            "an",
+            "outside",
+            "table"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "table"
+        ],
+        "index":10
+    },
+    {
+        "tokens":[
+            "If",
+            "you",
+            "are",
+            "looking",
+            "for",
+            "a",
+            "good",
+            "quality",
+            "cheap",
+            "eats",
+            "this",
+            "is",
+            "the",
+            "place"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "quality"
+        ],
+        "index":7
+    },
+    {
+        "tokens":[
+            "The",
+            "service",
+            "was",
+            "friendly",
+            "and",
+            "the",
+            "atmosphere",
+            "was",
+            "casual"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "service"
+        ],
+        "index":1
+    },
+    {
+        "tokens":[
+            "The",
+            "service",
+            "was",
+            "friendly",
+            "and",
+            "the",
+            "atmosphere",
+            "was",
+            "casual"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "atmosphere"
+        ],
+        "index":6
+    },
+    {
+        "tokens":[
             "When",
             "I",
             "lived",
@@ -51,13 +454,14 @@
             "any",
             "else"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bagels"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "recommend",
             "their",
@@ -70,13 +474,14 @@
             "Tofu",
             "plates"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pad See Ew"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "recommend",
             "their",
@@ -89,13 +494,14 @@
             "Tofu",
             "plates"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pork Chops"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "recommend",
             "their",
@@ -108,13 +514,14 @@
             "Tofu",
             "plates"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Tofu plates"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Never",
             "in",
             "my",
@@ -138,13 +545,14 @@
             "in",
             "NYC"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "taste"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "Never",
             "in",
             "my",
@@ -168,13 +576,14 @@
             "in",
             "NYC"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "quantity"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "this",
             "is",
             "the",
@@ -206,13 +615,14 @@
             "last",
             "Tuesday"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bartender"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "this",
             "is",
             "the",
@@ -244,13 +654,14 @@
             "last",
             "Tuesday"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "this",
             "is",
             "the",
@@ -282,13 +693,14 @@
             "last",
             "Tuesday"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "drinks"
-        ]
+        ],
+        "index":24
     },
     {
-        "tokens": [
+        "tokens":[
             "this",
             "is",
             "the",
@@ -320,13 +732,14 @@
             "last",
             "Tuesday"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "steak with portobello mushrooms"
-        ]
+        ],
+        "index":19
     },
     {
-        "tokens": [
+        "tokens":[
             "this",
             "is",
             "the",
@@ -358,13 +771,14 @@
             "last",
             "Tuesday"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bar"
-        ]
+        ],
+        "index":27
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -373,13 +787,14 @@
             "and",
             "attentive"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "main",
             "course",
@@ -392,13 +807,14 @@
             "decent",
             "overall"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "main course"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "main",
             "course",
@@ -411,13 +827,14 @@
             "decent",
             "overall"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "portion"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "20",
             "minutes",
             "for",
@@ -441,13 +858,14 @@
             "each",
             "other"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "reservation"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "20",
             "minutes",
             "for",
@@ -471,13 +889,14 @@
             "each",
             "other"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "cocktails"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "20",
             "minutes",
             "for",
@@ -501,26 +920,28 @@
             "each",
             "other"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "surroundings"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "Waitstaff",
             "is",
             "great",
             "very",
             "attentive"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Waitstaff"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "dinner",
             "menu",
@@ -531,13 +952,14 @@
             "as",
             "well"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dinner menu"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "IT",
             "IS",
             "WHAT",
@@ -547,13 +969,14 @@
             "ALL",
             "ABOUT"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "CUISINE"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "do",
             "n't",
@@ -576,13 +999,14 @@
             "the",
             "equation"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Indian food"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "at",
             "taj",
             "vegetarians",
@@ -595,13 +1019,14 @@
             "from",
             "heaven"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dishes"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Forget",
             "the",
             "rush",
@@ -631,13 +1056,14 @@
             "and",
             "romantic"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "wait"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Forget",
             "the",
             "rush",
@@ -667,13 +1093,14 @@
             "and",
             "romantic"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "noise"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "Forget",
             "the",
             "rush",
@@ -703,13 +1130,14 @@
             "and",
             "romantic"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "rush"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "wo",
             "n't",
@@ -723,13 +1151,14 @@
             "the",
             "bill"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "bill"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "live",
             "in",
@@ -781,13 +1210,14 @@
             "for",
             "parking"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bagels"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "Jimmy",
             "'s",
             "is",
@@ -801,13 +1231,14 @@
             "the",
             "Bronx"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "spot"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "I",
             "would",
@@ -827,13 +1258,14 @@
             "Achilles",
             "heel"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "I",
             "would",
@@ -853,13 +1285,14 @@
             "Achilles",
             "heel"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "delivery"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "300",
             "bill",
@@ -873,13 +1306,14 @@
             "was",
             "great"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "bill"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Nice",
             "ambiance",
             "nice",
@@ -892,13 +1326,14 @@
             "good",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bar"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "Nice",
             "ambiance",
             "nice",
@@ -911,13 +1346,14 @@
             "good",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bartender"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Nice",
             "ambiance",
             "nice",
@@ -930,13 +1366,14 @@
             "good",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "Nice",
             "ambiance",
             "nice",
@@ -949,13 +1386,14 @@
             "good",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ambiance"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "calamari",
             "comes",
@@ -972,13 +1410,14 @@
             "as",
             "well"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "calamari"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "calamari",
             "comes",
@@ -995,13 +1434,14 @@
             "as",
             "well"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "sauce"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "calamari",
             "comes",
@@ -1018,13 +1458,14 @@
             "as",
             "well"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "duck noodles"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "would",
             "definitely",
@@ -1043,13 +1484,14 @@
             "the",
             "blackboard"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "martinis"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "Simple",
             "comfort",
             "food",
@@ -1060,13 +1502,14 @@
             "lage",
             "portions"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "comfort food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Simple",
             "comfort",
             "food",
@@ -1077,13 +1520,14 @@
             "lage",
             "portions"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "portions"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "Stay",
             "away",
             "from",
@@ -1107,13 +1551,14 @@
             "right",
             "quick"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "rolls"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Stay",
             "away",
             "from",
@@ -1137,13 +1582,14 @@
             "right",
             "quick"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Stay",
             "away",
             "from",
@@ -1167,13 +1613,14 @@
             "right",
             "quick"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "avocado"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "Stay",
             "away",
             "from",
@@ -1197,13 +1644,14 @@
             "right",
             "quick"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "rice"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "did",
             "n't",
@@ -1222,13 +1670,14 @@
             "of",
             "dessert"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "drink refills"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "did",
             "n't",
@@ -1247,13 +1696,14 @@
             "of",
             "dessert"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dessert"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "bagels",
             "are",
@@ -1263,13 +1713,14 @@
             "for",
             "NYC"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bagels"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "bagels",
             "are",
@@ -1279,13 +1730,14 @@
             "for",
             "NYC"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "priced"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "can",
@@ -1310,13 +1762,14 @@
             "for",
             "2"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "business dinner"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "can",
@@ -1341,13 +1794,14 @@
             "for",
             "2"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "table"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "Decor",
             "leaves",
             "something",
@@ -1355,13 +1809,14 @@
             "be",
             "desired"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "Decor"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Also",
             "specify",
             "if",
@@ -1378,13 +1833,14 @@
             "do",
             "n't"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Our",
             "waiter",
             "was",
@@ -1411,13 +1867,14 @@
             "your",
             "food"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "waiter"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Our",
             "waiter",
             "was",
@@ -1444,13 +1901,14 @@
             "your",
             "food"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Our",
             "waiter",
             "was",
@@ -1477,13 +1935,14 @@
             "your",
             "food"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "Our",
             "waiter",
             "was",
@@ -1510,13 +1969,14 @@
             "your",
             "food"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":24
     },
     {
-        "tokens": [
+        "tokens":[
             "Coming",
             "from",
             "Boston",
@@ -1539,13 +1999,14 @@
             "funky",
             "toppings"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "toppings"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "When",
             "my",
             "husband",
@@ -1590,13 +2051,14 @@
             "life",
             "time"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":25
     },
     {
-        "tokens": [
+        "tokens":[
             "When",
             "my",
             "husband",
@@ -1641,13 +2103,14 @@
             "life",
             "time"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Meal"
-        ]
+        ],
+        "index":38
     },
     {
-        "tokens": [
+        "tokens":[
             "When",
             "my",
             "husband",
@@ -1692,13 +2155,14 @@
             "life",
             "time"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "LOBSTER TAILS"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "in",
             "an",
             "effort",
@@ -1720,13 +2184,14 @@
             "chocolate",
             "mousse"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "espresso cup filled with chocolate mousse"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "in",
             "an",
             "effort",
@@ -1748,13 +2213,14 @@
             "chocolate",
             "mousse"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "desserts"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "been",
@@ -1788,13 +2254,14 @@
             "to",
             "go"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pho"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "been",
@@ -1828,13 +2295,14 @@
             "to",
             "go"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Lemon grass chicken"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "been",
@@ -1868,13 +2336,14 @@
             "to",
             "go"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Beef Cube on rice"
-        ]
+        ],
+        "index":22
     },
     {
-        "tokens": [
+        "tokens":[
             "Oh",
             "yes",
             "and",
@@ -1918,13 +2387,14 @@
             "they",
             "obtained"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "portraits"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -1949,13 +2419,14 @@
             "no",
             "more"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -1980,13 +2451,14 @@
             "no",
             "more"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "appitizers"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -2011,13 +2483,14 @@
             "no",
             "more"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "main course"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -2042,13 +2515,14 @@
             "no",
             "more"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "desserts"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "fish",
             "was",
@@ -2059,13 +2533,14 @@
             "curry",
             "sauce"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "fish"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "fish",
             "was",
@@ -2076,13 +2551,14 @@
             "curry",
             "sauce"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "curry sauce"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "are",
@@ -2113,13 +2589,14 @@
             "East",
             "Side"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "deli"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "Even",
             "upon",
             "delivery",
@@ -2131,13 +2608,14 @@
             "quite",
             "good"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pork buns"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Average",
             "to",
             "good",
@@ -2147,13 +2625,14 @@
             "terrible",
             "delivery"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Thai food"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Average",
             "to",
             "good",
@@ -2163,13 +2642,14 @@
             "terrible",
             "delivery"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "delivery"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "space",
             "is",
@@ -2187,13 +2667,14 @@
             "a",
             "surprise"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "space"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "space",
             "is",
@@ -2211,13 +2692,14 @@
             "a",
             "surprise"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "drink"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "entire",
             "place",
@@ -2232,13 +2714,14 @@
             "conveyor",
             "belt"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Joe",
             "'s",
             "Pizza",
@@ -2254,13 +2737,14 @@
             "opened",
             "up"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "slice"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "they",
             "provided",
@@ -2271,13 +2755,14 @@
             "the",
             "house"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dessert"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "still",
@@ -2305,13 +2790,14 @@
             "are",
             "limited"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "reservation"
-        ]
+        ],
+        "index":22
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -2323,13 +2809,14 @@
             "doughy",
             "pizza"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -2341,13 +2828,14 @@
             "doughy",
             "pizza"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pastas"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -2359,13 +2847,14 @@
             "doughy",
             "pizza"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pizza"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Food",
             "was",
             "very",
@@ -2381,13 +2870,14 @@
             "this",
             "world"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Food"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "had",
             "Lobster",
@@ -2402,13 +2892,14 @@
             "in",
             "it"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Lobster Bisque"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "had",
             "Lobster",
@@ -2423,13 +2914,14 @@
             "in",
             "it"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Maine Lobster"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Try",
             "the",
             "Pad",
@@ -2444,13 +2936,14 @@
             "so",
             "cheap"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pad Thai"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Try",
             "the",
             "Pad",
@@ -2465,38 +2958,41 @@
             "so",
             "cheap"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Food",
             "is",
             "great",
             "and",
             "inexpensive"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Food"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "price",
             "very",
             "reasonable"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "price"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Dessert",
             "ca",
             "n't",
@@ -2506,13 +3002,14 @@
             "save",
             "room"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Dessert"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "It",
             "can",
             "be",
@@ -2539,13 +3036,14 @@
             "a",
             "treat"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "Ingredients",
             "are",
             "organic",
@@ -2557,13 +3055,14 @@
             "for",
             "me"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Ingredients"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "It",
             "was",
             "so",
@@ -2577,13 +3076,14 @@
             "my",
             "food"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "recommend",
             "this",
@@ -2598,13 +3098,14 @@
             "reasonable",
             "prices"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "cuisine"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "recommend",
             "this",
@@ -2619,13 +3120,14 @@
             "reasonable",
             "prices"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -2639,13 +3141,14 @@
             "food",
             "superb"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -2659,13 +3162,14 @@
             "food",
             "superb"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ambience"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -2679,13 +3183,14 @@
             "food",
             "superb"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "love",
             "when",
@@ -2709,13 +3214,14 @@
             "use",
             "them"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ingrediants"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "love",
             "when",
@@ -2739,13 +3245,14 @@
             "use",
             "them"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "cuisine"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "love",
             "when",
@@ -2769,13 +3276,14 @@
             "use",
             "them"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "THe",
             "Pizza",
             "and",
@@ -2797,13 +3305,14 @@
             "dining",
             "area"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pizza"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "THe",
             "Pizza",
             "and",
@@ -2825,13 +3334,14 @@
             "dining",
             "area"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "wine"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "THe",
             "Pizza",
             "and",
@@ -2853,13 +3363,14 @@
             "dining",
             "area"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "THe",
             "Pizza",
             "and",
@@ -2881,13 +3392,14 @@
             "dining",
             "area"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "backyard dining area"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiters",
             "are",
@@ -2904,13 +3416,14 @@
             "too",
             "large"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "waiters"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiters",
             "are",
@@ -2927,13 +3440,14 @@
             "too",
             "large"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiters",
             "are",
@@ -2950,13 +3464,14 @@
             "too",
             "large"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bill"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -2967,13 +3482,14 @@
             "like",
             "family"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "all",
             "had",
@@ -2996,13 +3512,14 @@
             "enough",
             "food"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "all",
             "had",
@@ -3025,13 +3542,14 @@
             "enough",
             "food"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "It",
             "only",
             "took",
@@ -3053,13 +3571,14 @@
             "too",
             "bad"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "table"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "menu",
             "may",
@@ -3072,13 +3591,14 @@
             "is",
             "delicious"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "had",
             "scrapped",
@@ -3106,13 +3626,14 @@
             "SERVING",
             "BOWL"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "rice"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "had",
             "scrapped",
@@ -3140,13 +3661,14 @@
             "SERVING",
             "BOWL"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "RICE"
-        ]
+        ],
+        "index":21
     },
     {
-        "tokens": [
+        "tokens":[
             "for",
             "dessert",
             "we",
@@ -3168,13 +3690,14 @@
             "bit",
             "overpriced"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "chocolate cake"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "for",
             "dessert",
             "we",
@@ -3196,13 +3719,14 @@
             "bit",
             "overpriced"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "vanilla gelato (with espresso)"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "for",
             "dessert",
             "we",
@@ -3224,13 +3748,14 @@
             "bit",
             "overpriced"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "dessert"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Warm",
             "comfortable",
             "surroundings",
@@ -3247,13 +3772,14 @@
             "dining",
             "rooms"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "surroundings"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Warm",
             "comfortable",
             "surroundings",
@@ -3270,13 +3796,14 @@
             "dining",
             "rooms"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dining rooms"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "ran",
             "a",
@@ -3297,13 +3824,14 @@
             "table",
             "immediately"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "reservation"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "ran",
             "a",
@@ -3324,13 +3852,14 @@
             "table",
             "immediately"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "table"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "arrived",
             "on",
@@ -3342,13 +3871,14 @@
             "seated",
             "promptly.The"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "reservation"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "would",
             "definitely",
@@ -3366,13 +3896,14 @@
             "fine",
             "dining"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dining"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "well",
             "mannered",
@@ -3385,26 +3916,28 @@
             "his",
             "employ"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "flavors",
             "robust",
             "and",
             "subtle"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "flavors"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "All",
             "I",
             "can",
@@ -3437,13 +3970,14 @@
             "the",
             "best"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "oysters"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "All",
             "I",
             "can",
@@ -3476,13 +4010,14 @@
             "the",
             "best"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "quality"
-        ]
+        ],
+        "index":25
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "would",
             "never",
@@ -3499,13 +4034,14 @@
             "THAT",
             "great"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "table"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "concluded",
             "with",
@@ -3516,26 +4052,28 @@
             "were",
             "delicious"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "tiramisu chocolate cake"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "counter",
             "service",
             "is",
             "bad"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "counter service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Service",
             "here",
             "was",
@@ -3544,13 +4082,14 @@
             "was",
             "fantastic"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Service"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Service",
             "here",
             "was",
@@ -3559,13 +4098,14 @@
             "was",
             "fantastic"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "is",
             "such",
@@ -3577,13 +4117,14 @@
             "eat",
             "outside"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "sauce",
             "is",
@@ -3594,13 +4135,14 @@
             "is",
             "perfect"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "sauce"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "sauce",
             "is",
@@ -3611,13 +4153,14 @@
             "is",
             "perfect"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "crust"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Since",
             "my",
             "first",
@@ -3634,13 +4177,14 @@
             "Orsay",
             "3x"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dinner"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Since",
             "my",
             "first",
@@ -3657,13 +4201,14 @@
             "Orsay",
             "3x"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "brunch"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "You",
             "will",
             "pay",
@@ -3693,13 +4238,14 @@
             "in",
             "NY"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "decore"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "You",
             "will",
             "pay",
@@ -3729,13 +4275,14 @@
             "in",
             "NY"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "have",
             "some",
@@ -3745,13 +4292,14 @@
             "as",
             "well"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "entrees"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "is",
@@ -3762,13 +4310,14 @@
             "just",
             "decent"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "served",
@@ -3791,13 +4340,14 @@
             "the",
             "next"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "served",
@@ -3820,13 +4370,14 @@
             "the",
             "next"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "served"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "served",
@@ -3849,13 +4400,14 @@
             "the",
             "next"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "portions"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "served",
@@ -3878,13 +4430,14 @@
             "the",
             "next"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dish"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "do",
             "cater",
@@ -3909,13 +4462,14 @@
             "to",
             "oblige"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "cater"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "had",
             "the",
@@ -3940,13 +4494,14 @@
             "was",
             "beatiful"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "mango chicken"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "had",
             "the",
@@ -3971,13 +4526,14 @@
             "was",
             "beatiful"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "presentation"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "care",
             "more",
@@ -3987,13 +4543,14 @@
             "and",
             "ambience"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "care",
             "more",
@@ -4003,13 +4560,14 @@
             "and",
             "ambience"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "ambience"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "Oh",
             "but",
             "wait",
@@ -4024,25 +4582,27 @@
             "delightfully",
             "overpriced"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "drinks"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "is",
             "fantastic"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "garlic",
             "mashed",
@@ -4056,39 +4616,42 @@
             "the",
             "city"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "garlic mashed potatoes"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Food",
             "and",
             "service",
             "was",
             "okay"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Food"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Food",
             "and",
             "service",
             "was",
             "okay"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "lamb",
             "meat",
@@ -4098,13 +4661,14 @@
             "EXTRMELY",
             "CHEWY"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "lamb meat"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "best",
             "pad",
@@ -4114,13 +4678,14 @@
             "ever",
             "had"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pad thai"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Over",
             "time",
             "the",
@@ -4150,13 +4715,14 @@
             "the",
             "reason"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food quality"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Over",
             "time",
             "the",
@@ -4186,39 +4752,42 @@
             "the",
             "reason"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "Great",
             "pizza",
             "and",
             "fantastic",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pizza"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Great",
             "pizza",
             "and",
             "fantastic",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "were",
             "seated",
@@ -4238,13 +4807,14 @@
             "my",
             "date"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "waiter"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "were",
             "seated",
@@ -4264,13 +4834,14 @@
             "my",
             "date"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "red wine"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "were",
             "seated",
@@ -4290,13 +4861,14 @@
             "my",
             "date"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "hot tea"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "were",
             "seated",
@@ -4316,13 +4888,14 @@
             "my",
             "date"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "outside"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "i",
             "would",
             "just",
@@ -4333,13 +4906,14 @@
             "next",
             "time"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "oil"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "While",
             "this",
             "is",
@@ -4358,13 +4932,14 @@
             "insultingly",
             "horrible"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "While",
             "this",
             "is",
@@ -4383,13 +4958,14 @@
             "insultingly",
             "horrible"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "went",
             "there",
@@ -4410,13 +4986,14 @@
             "I",
             "read"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "lunch"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "wine",
             "list",
@@ -4446,13 +5023,14 @@
             "to",
             "be"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "wine list"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "wine",
             "list",
@@ -4482,13 +5060,14 @@
             "to",
             "be"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "desserts"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "ordered",
             "a",
@@ -4504,13 +5083,14 @@
             "got",
             "it"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Lassi"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Their",
             "coffee",
             "is",
@@ -4518,13 +5098,14 @@
             "good",
             "too"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "coffee"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "great",
             "wine",
             "list",
@@ -4536,13 +5117,14 @@
             "INITIALLY",
             "fine"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "wine list"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "great",
             "wine",
             "list",
@@ -4554,13 +5136,14 @@
             "INITIALLY",
             "fine"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "great",
             "wine",
             "list",
@@ -4572,13 +5155,14 @@
             "INITIALLY",
             "fine"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Despite",
             "the",
             "fact",
@@ -4595,13 +5179,14 @@
             "with",
             "tables"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "space"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Despite",
             "the",
             "fact",
@@ -4618,13 +5203,14 @@
             "with",
             "tables"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "tables"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "As",
             "far",
             "as",
@@ -4644,13 +5230,14 @@
             "job",
             "done"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "As",
             "far",
             "as",
@@ -4670,13 +5257,14 @@
             "job",
             "done"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "waitresses"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "not",
@@ -4714,13 +5302,14 @@
             "become",
             "hostile"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":31
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "had",
             "to",
@@ -4739,13 +5328,14 @@
             "Ive",
             "requested"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dish"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "Normally",
             "that",
             "would",
@@ -4763,23 +5353,25 @@
             "not",
             "complain"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "host"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "Taxan",
             "delicious"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Taxan"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Unlike",
             "other",
             "places",
@@ -4809,13 +5401,14 @@
             "and",
             "price"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "sandwiches"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "Unlike",
             "other",
             "places",
@@ -4845,13 +5438,14 @@
             "and",
             "price"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "price"
-        ]
+        ],
+        "index":27
     },
     {
-        "tokens": [
+        "tokens":[
             "Unlike",
             "other",
             "places",
@@ -4881,13 +5475,14 @@
             "and",
             "price"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "portion"
-        ]
+        ],
+        "index":25
     },
     {
-        "tokens": [
+        "tokens":[
             "Southern",
             "Indian",
             "cuisine",
@@ -4896,13 +5491,14 @@
             "there",
             "too"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Southern Indian cuisine"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Restaurant",
             "snobs",
             "need",
@@ -4917,13 +5513,14 @@
             "of",
             "place"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "place"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "could",
             "n't",
@@ -4935,13 +5532,14 @@
             "was",
             "appealing"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "salad"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "For",
             "two",
             "people",
@@ -4953,23 +5551,25 @@
             "25",
             "bucks"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "tip"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "Killer",
             "Sushi"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Sushi"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Of",
             "course",
             "the",
@@ -4985,13 +5585,14 @@
             "so",
             "delicious"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "Staffs",
             "are",
             "not",
@@ -5003,13 +5604,14 @@
             "covers",
             "all"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "Staffs"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Staffs",
             "are",
             "not",
@@ -5021,13 +5623,14 @@
             "covers",
             "all"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "taste"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "jukebox",
             "plays",
@@ -5039,13 +5642,14 @@
             "The",
             "Strokes"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "jukebox"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Plus",
             "they",
             "made",
@@ -5053,13 +5657,14 @@
             "perfect",
             "martini"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "martini"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "am",
             "not",
@@ -5090,13 +5695,14 @@
             "exotic",
             "touch"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "eaten",
@@ -5111,25 +5717,27 @@
             "the",
             "cuisine"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "cuisine"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiter",
             "was",
             "attentive"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "waiter"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Their",
             "Margarita",
             "is",
@@ -5144,13 +5752,14 @@
             "from",
             "Naples"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Margarita"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "tastes",
             "makes",
@@ -5160,13 +5769,14 @@
             "for",
             "more"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "tastes"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Their",
             "sake",
             "list",
@@ -5190,13 +5800,14 @@
             "upon",
             "request"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "sake list"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Their",
             "sake",
             "list",
@@ -5220,13 +5831,14 @@
             "upon",
             "request"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "Purple Haze"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "tables",
             "are",
@@ -5250,13 +5862,14 @@
             "simply",
             "overpriced"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "tables"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "tables",
             "are",
@@ -5280,13 +5893,14 @@
             "simply",
             "overpriced"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "tables",
             "are",
@@ -5310,26 +5924,28 @@
             "simply",
             "overpriced"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "wine list"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "was",
             "actually",
             "aweful"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "served",
@@ -5345,13 +5961,14 @@
             "for",
             "lunch"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "appetizer"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "served",
@@ -5367,13 +5984,14 @@
             "for",
             "lunch"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "portions"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "served",
@@ -5389,13 +6007,14 @@
             "for",
             "lunch"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "served"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "are",
             "served",
@@ -5411,13 +6030,14 @@
             "for",
             "lunch"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "lunch"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "There",
             "is",
             "actually",
@@ -5435,13 +6055,14 @@
             "intimate",
             "dinner"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "space"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "There",
             "is",
             "actually",
@@ -5459,13 +6080,14 @@
             "intimate",
             "dinner"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "decor"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "There",
             "is",
             "actually",
@@ -5483,13 +6105,14 @@
             "intimate",
             "dinner"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dinner"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "went",
             "around",
@@ -5512,13 +6135,14 @@
             "was",
             "great"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "husband",
             "and",
@@ -5529,13 +6153,14 @@
             "Steak",
             "medium"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Steak"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "Furthermore",
             "the",
             "rice",
@@ -5550,13 +6175,14 @@
             "and",
             "disgusting"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "rice"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Furthermore",
             "the",
             "rice",
@@ -5571,13 +6197,14 @@
             "and",
             "disgusting"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "sushi"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "Furthermore",
             "the",
             "rice",
@@ -5592,13 +6219,14 @@
             "and",
             "disgusting"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "seasoning"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "place",
             "has",
@@ -5615,13 +6243,14 @@
             "classic",
             "cuisine"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "sushi"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "place",
             "has",
@@ -5638,13 +6267,14 @@
             "classic",
             "cuisine"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "place",
             "has",
@@ -5661,13 +6291,14 @@
             "classic",
             "cuisine"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Japanese classic cuisine"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "sushi",
             "is",
@@ -5679,13 +6310,14 @@
             "anything",
             "but"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "sushi"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "sushi",
             "is",
@@ -5697,13 +6329,14 @@
             "anything",
             "but"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "wife",
             "and",
@@ -5720,13 +6353,14 @@
             "other",
             "attractions"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "spinach"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "wife",
             "and",
@@ -5743,13 +6377,14 @@
             "other",
             "attractions"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Shanghai low mein"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Owner",
             "must",
             "have",
@@ -5762,13 +6397,14 @@
             "himself",
             "credit"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Owner"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Turned",
             "out",
             "there",
@@ -5780,13 +6416,14 @@
             "sat",
             "down"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Several",
             "of",
             "the",
@@ -5798,13 +6435,14 @@
             "6-8",
             "pieces"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dim sum orders"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "have",
@@ -5818,13 +6456,14 @@
             "some",
             "here"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dumpling"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "Three",
             "page",
             "wine",
@@ -5835,13 +6474,14 @@
             "and",
             "horedevous"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "wine menu"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "Three",
             "page",
             "wine",
@@ -5852,13 +6492,14 @@
             "and",
             "horedevous"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "entree"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Three",
             "page",
             "wine",
@@ -5869,13 +6510,14 @@
             "and",
             "horedevous"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "horedevous"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -5898,13 +6540,14 @@
             "and",
             "friendly"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -5927,13 +6570,14 @@
             "and",
             "friendly"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "owner"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiters",
             "and",
@@ -5961,13 +6605,14 @@
             "have",
             "expected"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "waiters"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "waiters",
             "and",
@@ -5995,26 +6640,28 @@
             "have",
             "expected"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "owners"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "the",
             "food",
             "was",
             "fantastic"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "'re",
@@ -6049,13 +6696,14 @@
             "pearls",
             "hot"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "drink"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "'re",
@@ -6090,13 +6738,14 @@
             "pearls",
             "hot"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "hong-kong styled milk"
-        ]
+        ],
+        "index":24
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "you",
             "'re",
@@ -6131,13 +6780,14 @@
             "pearls",
             "hot"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "tea with tapioca pearls (hot)"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6165,13 +6815,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "chef"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6199,13 +6850,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "assortment of fish"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6233,13 +6885,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Fatty Yellow Tail"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6267,13 +6920,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Boton Shrimp"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6301,13 +6955,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Sea Eel"
-        ]
+        ],
+        "index":23
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6335,13 +6990,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Sea Urchin"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Aside",
             "from",
             "the",
@@ -6369,13 +7025,14 @@
             "Eel",
             "etc"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Blue Fin Torro (Fatty Tuna)"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "'re",
             "also",
@@ -6386,13 +7043,14 @@
             "owner",
             "Kenny"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "owner"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "While",
             "the",
             "room",
@@ -6416,13 +7074,14 @@
             "your",
             "plate"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "room"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "While",
             "the",
             "room",
@@ -6446,13 +7105,14 @@
             "your",
             "plate"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "plate"
-        ]
+        ],
+        "index":21
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "lived",
@@ -6479,13 +7139,14 @@
             "bad",
             "dream"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "waterbugs"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "Winnie",
             "and",
             "her",
@@ -6500,13 +7161,14 @@
             "serving",
             "you"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "crew"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "Winnie",
             "and",
             "her",
@@ -6521,13 +7183,14 @@
             "serving",
             "you"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Winnie",
             "and",
             "her",
@@ -6542,13 +7205,14 @@
             "serving",
             "you"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "serving"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "ambiance",
             "is",
@@ -6575,13 +7239,14 @@
             "chicken",
             "saltimbocca"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ambiance"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "ambiance",
             "is",
@@ -6608,13 +7273,14 @@
             "chicken",
             "saltimbocca"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "ambiance",
             "is",
@@ -6641,13 +7307,14 @@
             "chicken",
             "saltimbocca"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dishes"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "ambiance",
             "is",
@@ -6674,13 +7341,14 @@
             "chicken",
             "saltimbocca"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "eggplant parmesan"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "ambiance",
             "is",
@@ -6707,13 +7375,14 @@
             "chicken",
             "saltimbocca"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "veal in carozza chicken saltimbocca"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "host",
             "asked",
@@ -6741,13 +7410,14 @@
             "not",
             "ordered"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "host"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "host",
             "asked",
@@ -6775,13 +7445,14 @@
             "not",
             "ordered"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "appetizers"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "My",
             "host",
             "asked",
@@ -6809,13 +7480,14 @@
             "not",
             "ordered"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "waiter"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "You",
             "can",
             "even",
@@ -6829,13 +7501,14 @@
             "your",
             "fridge"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "chutneys"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "bar",
             "has",
@@ -6854,13 +7527,14 @@
             "1",
             "'s"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bar"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "bar",
             "has",
@@ -6879,13 +7553,14 @@
             "1",
             "'s"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "mixed drink special"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "it",
             "is",
@@ -6903,13 +7578,14 @@
             "the",
             "ambience"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "it",
             "is",
@@ -6927,13 +7603,14 @@
             "the",
             "ambience"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "If",
             "it",
             "is",
@@ -6951,13 +7628,14 @@
             "the",
             "ambience"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ambience"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "During",
             "the",
             "course",
@@ -6979,13 +7657,14 @@
             "the",
             "better"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "chef"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "During",
             "the",
             "course",
@@ -7007,13 +7686,14 @@
             "the",
             "better"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":11
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -7025,26 +7705,28 @@
             "and",
             "original"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "ambience"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Overall",
             "not",
             "worth",
             "the",
             "money"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "money"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "place",
             "is",
@@ -7053,26 +7735,28 @@
             "the",
             "prices"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "left",
             "after",
             "one",
             "drink"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "drink"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "Pick",
             "a",
             "bagel",
@@ -7084,13 +7768,14 @@
             "the",
             "city"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bagels"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "You",
             "are",
             "paying",
@@ -7111,13 +7796,14 @@
             "Bay",
             "Ridge"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "atmosphere"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "Yes",
             "you",
             "have",
@@ -7145,13 +7831,14 @@
             "all",
             "taken"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "waiting area"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "Yes",
             "you",
             "have",
@@ -7179,13 +7866,14 @@
             "all",
             "taken"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "seat"
-        ]
+        ],
+        "index":19
     },
     {
-        "tokens": [
+        "tokens":[
             "Yes",
             "you",
             "have",
@@ -7213,13 +7901,14 @@
             "all",
             "taken"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bar"
-        ]
+        ],
+        "index":22
     },
     {
-        "tokens": [
+        "tokens":[
             "Yes",
             "you",
             "have",
@@ -7247,13 +7936,14 @@
             "all",
             "taken"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "wait"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "last",
             "two",
@@ -7285,13 +7975,14 @@
             "the",
             "dish"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "last",
             "two",
@@ -7323,13 +8014,14 @@
             "the",
             "dish"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "flavor"
-        ]
+        ],
+        "index":26
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "last",
             "two",
@@ -7361,13 +8053,14 @@
             "the",
             "dish"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "dish"
-        ]
+        ],
+        "index":29
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "last",
             "two",
@@ -7399,26 +8092,28 @@
             "the",
             "dish"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "spice"
-        ]
+        ],
+        "index":21
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "fried",
             "dumplings",
             "are",
             "GREAT"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "fried dumplings"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "place",
             "has",
@@ -7432,13 +8127,14 @@
             "the",
             "city"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "BBQ ribs"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "Ive",
             "been",
             "here",
@@ -7451,13 +8147,14 @@
             "my",
             "name"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "waiters"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "decor",
             "is",
@@ -7466,13 +8163,14 @@
             "but",
             "comfortable"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "decor"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7511,13 +8209,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "Argentinian Pizza"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7556,13 +8255,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "lunch"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7601,13 +8301,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Pelligrino"
-        ]
+        ],
+        "index":17
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7646,13 +8347,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "pizza"
-        ]
+        ],
+        "index":19
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7691,13 +8393,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "goat cheese"
-        ]
+        ],
+        "index":27
     },
     {
-        "tokens": [
+        "tokens":[
             "We",
             "figured",
             "we",
@@ -7736,13 +8439,14 @@
             "were",
             "excellent"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "blue cheese"
-        ]
+        ],
+        "index":31
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "'kamasutra",
             "and",
@@ -7759,13 +8463,14 @@
             "no",
             "time"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "kamasutra"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "'kamasutra",
             "and",
@@ -7782,13 +8487,14 @@
             "no",
             "time"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "bombay cosmopolitan"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "This",
             "is",
             "the",
@@ -7799,13 +8505,14 @@
             "Williamsburg",
             "couples"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "date spot"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "dim",
             "sum",
@@ -7814,13 +8521,14 @@
             "only",
             "so-so"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dim sum"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "6",
             "and",
             "there",
@@ -7836,13 +8544,272 @@
             "continually",
             "refilled"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
+            "Just",
+            "straight",
+            "up",
+            "cheap",
+            "good",
+            "food"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "food"
+        ],
+        "index":5
+    },
+    {
+        "tokens":[
+            "Seating",
+            "is",
+            "ok",
+            "even",
+            "though",
+            "sometimes",
+            "there",
+            "'s",
+            "alot",
+            "of",
+            "people"
+        ],
+        "polarity":"neutral",
+        "aspect_terms":[
+            "Seating"
+        ],
+        "index":0
+    },
+    {
+        "tokens":[
+            "Even",
+            "with",
+            "a",
+            "relatively",
+            "inexpensive",
+            "botle",
+            "of",
+            "wine",
+            "if",
+            "you",
+            "can",
+            "call",
+            "70.00",
+            "inexpensive",
+            "the",
+            "cost",
+            "is",
+            "through",
+            "the",
+            "roof",
+            "for",
+            "better",
+            "than",
+            "average",
+            "fare"
+        ],
+        "polarity":"negative",
+        "aspect_terms":[
+            "cost"
+        ],
+        "index":15
+    },
+    {
+        "tokens":[
+            "Even",
+            "with",
+            "a",
+            "relatively",
+            "inexpensive",
+            "botle",
+            "of",
+            "wine",
+            "if",
+            "you",
+            "can",
+            "call",
+            "70.00",
+            "inexpensive",
+            "the",
+            "cost",
+            "is",
+            "through",
+            "the",
+            "roof",
+            "for",
+            "better",
+            "than",
+            "average",
+            "fare"
+        ],
+        "polarity":"conflict",
+        "aspect_terms":[
+            "botle of wine"
+        ],
+        "index":5
+    },
+    {
+        "tokens":[
+            "Service",
+            "was",
+            "slow",
+            "but",
+            "the",
+            "people",
+            "were",
+            "friendly"
+        ],
+        "polarity":"negative",
+        "aspect_terms":[
+            "Service"
+        ],
+        "index":0
+    },
+    {
+        "tokens":[
+            "Service",
+            "was",
+            "slow",
+            "but",
+            "the",
+            "people",
+            "were",
+            "friendly"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "people"
+        ],
+        "index":5
+    },
+    {
+        "tokens":[
+            "The",
+            "steak",
+            "was",
+            "very",
+            "fatty",
+            "and",
+            "the",
+            "sauce",
+            "was",
+            "overpowering",
+            "and",
+            "not",
+            "very",
+            "tasty"
+        ],
+        "polarity":"negative",
+        "aspect_terms":[
+            "steak"
+        ],
+        "index":1
+    },
+    {
+        "tokens":[
+            "The",
+            "steak",
+            "was",
+            "very",
+            "fatty",
+            "and",
+            "the",
+            "sauce",
+            "was",
+            "overpowering",
+            "and",
+            "not",
+            "very",
+            "tasty"
+        ],
+        "polarity":"negative",
+        "aspect_terms":[
+            "sauce"
+        ],
+        "index":7
+    },
+    {
+        "tokens":[
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "staff"
+        ],
+        "index":1
+    },
+    {
+        "tokens":[
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "food"
+        ],
+        "index":8
+    },
+    {
+        "tokens":[
+            "The",
+            "staff",
+            "makes",
+            "you",
+            "feel",
+            "at",
+            "home",
+            "the",
+            "food",
+            "is",
+            "great",
+            "and",
+            "the",
+            "atmosphere",
+            "is",
+            "WONDERFUL"
+        ],
+        "polarity":"positive",
+        "aspect_terms":[
+            "atmosphere"
+        ],
+        "index":13
+    },
+    {
+        "tokens":[
             "The",
             "food",
             "is",
@@ -7864,13 +8831,14 @@
             "be",
             "dry"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "food",
             "is",
@@ -7892,13 +8860,14 @@
             "be",
             "dry"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "steak dish"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "They",
             "have",
             "a",
@@ -7911,13 +8880,14 @@
             "for",
             "everybody"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "menu"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -7944,13 +8914,14 @@
             "my",
             "check"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -7977,13 +8948,14 @@
             "my",
             "check"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "sushi"
-        ]
+        ],
+        "index":6
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -8010,13 +8982,14 @@
             "my",
             "check"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "check"
-        ]
+        ],
+        "index":24
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -8043,13 +9016,14 @@
             "my",
             "check"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "dinner"
-        ]
+        ],
+        "index":8
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "was",
@@ -8076,13 +9050,14 @@
             "my",
             "check"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bar"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "As",
             "a",
             "long-time",
@@ -8107,38 +9082,41 @@
             "the",
             "city"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food spot"
-        ]
+        ],
+        "index":18
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "bagel",
             "was",
             "huge"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "bagel"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Get",
             "the",
             "tuna",
             "of",
             "gari"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "tuna"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -8156,13 +9134,14 @@
             "kinda",
             "dissapointing"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "somosas"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -8180,13 +9159,14 @@
             "kinda",
             "dissapointing"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "chai"
-        ]
+        ],
+        "index":4
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -8204,13 +9184,14 @@
             "kinda",
             "dissapointing"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "chole"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -8228,13 +9209,14 @@
             "kinda",
             "dissapointing"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "dhosas"
-        ]
+        ],
+        "index":10
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "like",
             "the",
@@ -8252,13 +9234,14 @@
             "kinda",
             "dissapointing"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "dhal"
-        ]
+        ],
+        "index":12
     },
     {
-        "tokens": [
+        "tokens":[
             "Edible",
             "but",
             "really",
@@ -8273,13 +9256,14 @@
             "the",
             "area"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "prices"
-        ]
+        ],
+        "index":7
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "has",
@@ -8301,13 +9285,14 @@
             "more",
             "often"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "staff"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "staff",
             "has",
@@ -8329,13 +9314,14 @@
             "more",
             "often"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "bathroom"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -8347,25 +9333,27 @@
             "this",
             "restaurant"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Service-",
             "friendly",
             "and",
             "attentive"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "Service"
-        ]
+        ],
+        "index":-1
     },
     {
-        "tokens": [
+        "tokens":[
             "Service",
             "was",
             "very",
@@ -8374,13 +9362,14 @@
             "slightly",
             "rushed"
         ],
-        "polarity": "conflict",
-        "aspect_terms": [
+        "polarity":"conflict",
+        "aspect_terms":[
             "Service"
-        ]
+        ],
+        "index":0
     },
     {
-        "tokens": [
+        "tokens":[
             "Great",
             "food",
             "great",
@@ -8388,13 +9377,14 @@
             "great",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "Great",
             "food",
             "great",
@@ -8402,13 +9392,14 @@
             "great",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "decor"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Great",
             "food",
             "great",
@@ -8416,13 +9407,14 @@
             "great",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":5
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "atlhough",
             "tables",
@@ -8445,13 +9437,14 @@
             "awkardly",
             "seated"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "tables"
-        ]
+        ],
+        "index":2
     },
     {
-        "tokens": [
+        "tokens":[
             "And",
             "atlhough",
             "tables",
@@ -8474,13 +9467,14 @@
             "awkardly",
             "seated"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "space"
-        ]
+        ],
+        "index":15
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "palak",
             "paneer",
@@ -8497,13 +9491,14 @@
             "malai",
             "kofta"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "palak paneer"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "palak",
             "paneer",
@@ -8520,13 +9515,14 @@
             "malai",
             "kofta"
         ],
-        "polarity": "neutral",
-        "aspect_terms": [
+        "polarity":"neutral",
+        "aspect_terms":[
             "malai kofta"
-        ]
+        ],
+        "index":13
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "dined",
@@ -8549,13 +9545,14 @@
             "dining",
             "experience"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dining"
-        ]
+        ],
+        "index":19
     },
     {
-        "tokens": [
+        "tokens":[
             "I",
             "'ve",
             "dined",
@@ -8578,13 +9575,14 @@
             "dining",
             "experience"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "price"
-        ]
+        ],
+        "index":14
     },
     {
-        "tokens": [
+        "tokens":[
             "Yeah",
             "sometimes",
             "the",
@@ -8593,25 +9591,27 @@
             "be",
             "slow"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "There",
             "was",
             "no",
             "ambiance"
         ],
-        "polarity": "negative",
-        "aspect_terms": [
+        "polarity":"negative",
+        "aspect_terms":[
             "ambiance"
-        ]
+        ],
+        "index":3
     },
     {
-        "tokens": [
+        "tokens":[
             "Save",
             "your",
             "money",
@@ -8638,13 +9638,14 @@
             "BEST",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "food"
-        ]
+        ],
+        "index":20
     },
     {
-        "tokens": [
+        "tokens":[
             "Save",
             "your",
             "money",
@@ -8671,13 +9672,14 @@
             "BEST",
             "service"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":24
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -8703,13 +9705,14 @@
             "pineapple",
             "tempura"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "service"
-        ]
+        ],
+        "index":1
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -8735,13 +9738,14 @@
             "pineapple",
             "tempura"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "dish"
-        ]
+        ],
+        "index":9
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -8767,13 +9771,14 @@
             "pineapple",
             "tempura"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "spring rolls"
-        ]
+        ],
+        "index":16
     },
     {
-        "tokens": [
+        "tokens":[
             "The",
             "service",
             "was",
@@ -8799,9 +9804,10 @@
             "pineapple",
             "tempura"
         ],
-        "polarity": "positive",
-        "aspect_terms": [
+        "polarity":"positive",
+        "aspect_terms":[
             "cod with pineapple tempura"
-        ]
+        ],
+        "index":20
     }
 ]

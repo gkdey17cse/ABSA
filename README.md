@@ -2,6 +2,51 @@
 
 #### Asignment - 2 | Task - 2 | By - Gour Krishna Dey | Roll - MT24035 | IIITD
 
+## How to Run the Project
+
+In the zip File we get Directory Structure as-
+
+```bash
+Deliverables/
+│-- Requirements/
+| |-- fasttext_embeddings_25.pkl
+| |-- RNN_Local_Context_Class.py
+│-- RNN_Local_Context.pth
+│-- task2.ipynb
+│-- train_task_2.json
+│-- val_task_2.json
+```
+
+To use preprocess the json file and make it compatible with our pipeline we need to run the `task2.ipynb` script (details are written inside) . This script has two dependencies `fasttext_embeddings_25.pkl` (embeddings of entire vocab) & `RNN_Local_Context_Class.py` which are kept in `Requirements/` directory . Our best baseline model is `RNN_Local_Context.pth` which will be loaded while running task2.ipynb and you could see the final accuracy .
+N.B - The user given .json file must have json object like -
+
+```json
+{
+  "sentence_id": "2474",
+  "sentence": "The food is alright - some stuff is good - some is not (like the steak dish which tends to be dry).",
+  "aspect_terms": [
+    {
+      "term": "food",
+      "polarity": "conflict",
+      "from": "4",
+      "to": "8"
+    },
+    {
+      "term": "steak dish",
+      "polarity": "negative",
+      "from": "65",
+      "to": "75"
+    }
+  ],
+  "aspect_categories": [
+    {
+      "category": "food",
+      "polarity": "conflict"
+    }
+  ]
+}
+```
+
 ## 1. Data Preprocessing, Vocabulary Generation, and Embeddings Creation
 
 ### 1.1 **Data Preprocessing**

@@ -272,19 +272,19 @@ The loss trends for each model provide insights into training stability and gene
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <div>
-    <img src="Final/Plots/RNN_Local_Context.png" alt="RNN Local Context" style="width:100%;">
+    <img src="Plots/RNN_Local_Context.png" alt="RNN Local Context" style="width:100%;">
     <p style="text-align: center;"><strong>RNN Local Context (Baseline Model)</strong></p>
   </div>
   <div>
-    <img src="Final/Plots/Graph_BERT.png" alt="BERT Finetuned Model" style="width:100%;">
+    <img src="Plots/Graph_BERT.png" alt="BERT Finetuned Model" style="width:100%;">
     <p style="text-align: center;"><strong>BERT Finetuned Model</strong></p>
   </div>
   <div>
-    <img src="Final/Plots/Graph_BART.png" alt="BART Finetuned Model" style="width:100%;">
+    <img src="Plots/Graph_BART.png" alt="BART Finetuned Model" style="width:100%;">
     <p style="text-align: center;"><strong>BART Finetuned Model</strong></p>
   </div>
   <div>
-    <img src="Final/Plots/Graph_ROBERTa.png" alt="ROBERTa Finetuned Model" style="width:100%;">
+    <img src="Plots/Graph_ROBERTa.png" alt="ROBERTa Finetuned Model" style="width:100%;">
     <p style="text-align: center;"><strong>ROBERTa Finetuned Model</strong></p>
   </div>
 </div>
